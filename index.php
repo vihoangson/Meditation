@@ -40,8 +40,8 @@
 	</div>
 	<hr>	
 	<p class="text-center">
-	<button type="button" class="btn btn-lg btn-info start_sound"><i class="fa fa-check"></i> Start </button> 
-	<button type="button" class="btn btn-lg btn-danger stop_sound" style="display:none;"><i class="fa fa-stop-circle"></i> Stop  </button></p>
+	<button type="button" class="btn btn-lg btn-info start_sound"><i class="fa fa-check"></i> Bắt đầu </button> 
+	<button type="button" class="btn btn-lg btn-danger stop_sound" style="display:none;"><i class="fa fa-stop-circle"></i> Kết thúc  </button></p>
 </div>
 <div id="countdowntimer"><span id="future_date"><span></div>
 
